@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>
+        {% block title %}
+            {{ title|title }}
+        {% endblock %}
+    </title>
+    {% block css %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    {% endblock %}
+</head>
+
+<body>
+    <div class="container">
+        {% block menu %}
+            <div class="header">
+                <div><img class="logo" src="/static/img/Logo.jpg" alt="logo"></div>
+                <div class="menu"><a href="{% url 'main' %}">Главная</a></div>
+                <div class="menu"><a href="{% url 'products' %}">Каталог</a></div>
+                <div class="menu"><a href="{% url 'contact' %}">Контакты</a></div>
+            </div>
+        {% endblock %}
+            {% block content %}
+                <div class="h1">
+                    <h1>Магазин резиновых уточек</h1>
+                </div>
+                <div class="h2">
+                    <h2>Главная</h2>
+                </div>
+            {% endblock %}
+
+        <hr>
+        {% block paragraph %}
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias vel obcaecati quae sint odio quibusdam?</p>
+        {% endblock %}
+    </div>
+    {% block footer %}
+        <div class="footer">
+
+            <hr>
+
+            <div class="foo_text">&copy; Все права защищены</div>
+        </div>
+    {% endblock %}
+
+</body>
+</html>
