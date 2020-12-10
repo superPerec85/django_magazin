@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 {% load static %}
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,12 +17,6 @@
 <body>
     <div class="container">
         {% block menu %}
-            <div class="header">
-                <div><img class="logo" src="/static/img/Logo.jpg" alt="logo"></div>
-                <div class="menu"><a href="{% url 'main' %}">Главная</a></div>
-                <div class="menu"><a href="{% url 'products' %}">Каталог</a></div>
-                <div class="menu"><a href="{% url 'contact' %}">Контакты</a></div>
-            </div>
         {% endblock %}
             {% block content %}
                 <div class="h1">
