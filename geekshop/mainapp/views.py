@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-title = 'title__'
+title = 'Главная'
 links_menu = [
         {'href': 'products_all', 'name': 'все'},
         {'href': 'products_home', 'name': 'дом'},

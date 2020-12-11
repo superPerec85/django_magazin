@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7177da20-86bf-4f3f-850a-ad1d01910cfd" name="Default Changelist" comment="pressed the footer down">
-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/migrations/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +19,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -30,9 +32,6 @@
         <option value="https://github.com/superPerec85/django_magazin" />
       </set>
     </option>
-  </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1lQy1cfXAmi2wjUn2UL6ol4pUjP" />
   <component name="ProjectLevelVcsManager">
