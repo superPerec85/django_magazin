@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"7177da20-86bf-4f3f-850a-ad1d01910cfd\" name=\"Default Changelist\" comment=\"pressed the footer down\">\r\n      <change afterPath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"hiddenUrls\">\r\n      <set>\r\n        <option value=\"https://github.com/superPerec85/django_magazin\" />\r\n      </set>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProblemsViewState\">\r\n    <option name=\"selectedIndex\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"1lQy1cfXAmi2wjUn2UL6ol4pUjP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"ASKED_ADD_EXTERNAL_FILES\" value=\"true\" />\r\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\r\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\r\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../geekshop\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\Malipus\\Desktop\\django_magazin\\geekshop\\mainapp\\templates\\mainapp\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"7177da20-86bf-4f3f-850a-ad1d01910cfd\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1607543396286</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1607543396286</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"pressed the footer down\">\r\n      <created>1607600948088</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1607600948088</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.History.Properties\">\r\n    <option name=\"COLUMN_ID_ORDER\">\r\n      <list>\r\n        <option value=\"Default.Root\" />\r\n        <option value=\"Default.Author\" />\r\n        <option value=\"Default.Date\" />\r\n        <option value=\"Default.Subject\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"oldMeFiltersMigrated\" value=\"true\" />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <option name=\"ADD_EXTERNAL_FILES_SILENTLY\" value=\"true\" />\r\n    <MESSAGE value=\"pressed the footer down\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"pressed the footer down\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 77b08ec4dd98f12af0f2853a26e0daca63068aaa)
++++ b/.idea/workspace.xml	(date 1607854394686)
+@@ -2,12 +2,8 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="7177da20-86bf-4f3f-850a-ad1d01910cfd" name="Default Changelist" comment="pressed the footer down">
+-      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/base.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/contact.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/index.html" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/django_magazin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_magazin.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" project-jdk-name=\"Python 3.8 (django_magazin)\" project-jdk-type=\"Python SDK\" />\r\n  <component name=\"PyCharmProfessionalAdvertiser\">\r\n    <option name=\"shown\" value=\"true\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 77b08ec4dd98f12af0f2853a26e0daca63068aaa)
++++ b/.idea/misc.xml	(date 1607854097462)
+@@ -1,6 +1,6 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8 (django_magazin)" project-jdk-type="Python SDK" />
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.8" project-jdk-type="Python SDK" />
+   <component name="PyCharmProfessionalAdvertiser">
+     <option name="shown" value="true" />
+   </component>
+Index: .idea/django_magazin.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"PYTHON_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\">\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <excludeFolder url=\"file://$MODULE_DIR$/venv\" />\r\n    </content>\r\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.8 (django_magazin)\" jdkType=\"Python SDK\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n  </component>\r\n  <component name=\"PyDocumentationSettings\">\r\n    <option name=\"format\" value=\"PLAIN\" />\r\n    <option name=\"myDocStringFormat\" value=\"Plain\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/django_magazin.iml b/.idea/django_magazin.iml
+--- a/.idea/django_magazin.iml	(revision 77b08ec4dd98f12af0f2853a26e0daca63068aaa)
++++ b/.idea/django_magazin.iml	(date 1607854097450)
+@@ -4,7 +4,7 @@
+     <content url="file://$MODULE_DIR$">
+       <excludeFolder url="file://$MODULE_DIR$/venv" />
+     </content>
+-    <orderEntry type="jdk" jdkName="Python 3.8 (django_magazin)" jdkType="Python SDK" />
++    <orderEntry type="jdk" jdkName="Python 3.8" jdkType="Python SDK" />
+     <orderEntry type="sourceFolder" forTests="false" />
+   </component>
+   <component name="PyDocumentationSettings">

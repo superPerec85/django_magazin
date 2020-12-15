@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7177da20-86bf-4f3f-850a-ad1d01910cfd" name="Default Changelist" comment="pressed the footer down">
-      <change afterPath="$PROJECT_DIR$/geekshop/media/products_images/u_утка.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/products_images/гелик.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/media/products_images/желтая_утка_cpLk6P3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekshop/static/img/гелик.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/django_magazin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/django_magazin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7177da20-86bf-4f3f-850a-ad1d01910cfd" name="Default Changelist" comment="lesson 3">
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_12_2020_13_14_[Default_Changelist]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_12_2020_13_14__Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/fill_db.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/json/categories.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/json/products.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekshop/mainapp/management/commands/fill_db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/geekshop/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/geekshop/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/includes/inc_menu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/templates/mainapp/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/templates/migrations/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/mainapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/mainapp/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekshop/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/geekshop/static/css/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +79,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607600948088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 3">
+      <created>1608039698623</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608039698623</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -114,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="pressed the footer down" />
-    <option name="LAST_COMMIT_MESSAGE" value="pressed the footer down" />
+    <MESSAGE value="lesson 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3" />
   </component>
 </project>
