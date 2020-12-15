@@ -2,6 +2,10 @@ from django.db import models
 
 
 class ProductCategory(models.Model):
+    class Meta:
+        verbose_name = 'категория'
+        verbose_name_plural = 'категории'
+
     name = models.CharField(verbose_name='имя', max_length=64, unique=True)
     description = models.TextField(verbose_name='описание', blank=True)
 
@@ -10,6 +14,10 @@ class ProductCategory(models.Model):
 
 
 class Product(models.Model):
+    class Meta:
+        verbose_name = 'продукт'
+        verbose_name_plural = 'продукты'
+
     category = models.ForeignKey(ProductCategory, on_delete=models.CASCADE)
     name = models.CharField(verbose_name='имя продукта', max_length=128)
     image = models.ImageField(upload_to='products_images', blank=True)
