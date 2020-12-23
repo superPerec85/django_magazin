@@ -1,7 +1,21 @@
-<div class="header">
-    <div><img class="logo" src="/static/img/Logo.jpg" alt="logo"></div>
-    <div class="menu"><a href="{% url 'main' %}">Главная</a></div>
-    <div class="menu"><a href="{% url 'products:index' %}">Каталог</a></div>
-    <div class="menu"><a href="{% url 'contact' %}">Контакты</a></div>
-</div>
 
+<div><img class="logo" src="/static/img/Logo.jpg" alt="logo"></div>
+<div class="menu"><a href="{% url 'main' %}">Главная</a></div>
+<div class="menu"><a href="{% url 'products:index' %}">Каталог</a></div>
+<div class="menu"><a href="{% url 'contact' %}">Контакты</a></div>
+
+
+{% if user.is_authenticated %}
+<li>
+    <a href="{% url 'auth:edit' %}">
+        {{ user.first_name|default:'Пользователь' }}
+    </a>
+</li>
+{% endif %}
+<li>
+    {% if user.is_authenticated %}
+      <a href="{% url 'auth:logout' %}">выйти</a>
+    {% else %}
+      <a href="{% url 'auth:login' %}">войти</a>
+    {% endif %}
+</li>
