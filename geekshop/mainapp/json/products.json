@@ -1,0 +1,26 @@
+[
+    {
+        "category": "Резиновые уточки",
+        "name": "Желтая утка",
+        "price": 1000,
+        "quantity": 5
+    },
+    {
+        "category": "Резиновые уточки",
+        "name": "Утка бетмен",
+        "price": 2000,
+        "quantity": 1
+    },
+    {
+        "category": "Машинки",
+        "name": "Гелендваген",
+        "price": 5000,
+        "quantity": 7
+    },
+    {
+        "category": "Машинки",
+        "name": "Формула 1",
+        "price": 1000,
+        "quantity": 15
+    }
+]
